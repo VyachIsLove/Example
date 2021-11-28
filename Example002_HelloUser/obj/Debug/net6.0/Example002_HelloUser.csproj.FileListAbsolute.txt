@@ -1,0 +1,15 @@
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\bin\Debug\net6.0\ref\Example002_HelloUser.dll
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+C:\Geek Brains (Git)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
