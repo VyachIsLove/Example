@@ -1,5 +1,5 @@
-﻿int numberA = 3;
-int numberB = 35;
+﻿int numberA = new Random().Next(1, 10);
+int numberB = new Random().Next(1, 10);
 
 int max = numberA;
 int min = numberB;
@@ -16,5 +16,6 @@ if(numberA != numberB)
 }
 if(numberA == numberB)
 {
+    Console.WriteLine(max);
     Console.WriteLine("Числа равны");
 }
