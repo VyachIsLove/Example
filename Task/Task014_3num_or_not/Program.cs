@@ -3,30 +3,16 @@
 Console.Write("Введите число ");
 string num = Console.ReadLine();
 
-if(num.Length == 3)
-{
-    int n = num[num.Length - 1] - '0';
-    Console.WriteLine(n);
-}
-else if (num.Length > 3)
-{
-    int n = num[num.Length - 2] - '0';
-    Console.WriteLine(n);
-}
-else
+int a = num.Length; // длина числа 
+int b = a - 2; 
+
+if(a < 3)
 {
     Console.WriteLine("Третья цифра в числе отсутствует.");
 }
+if(a == a)
+{
+    int n = num[num.Length - b] - '0';
+    Console.WriteLine("Третья цифра числа " + n);
+}
 
-// int n = num[num.Length -1] - '0';
-
-// if(num.Length == 3) 
-// Console.WriteLine(n);
-// else (num.Length < 3);
-// {
-//     Console.WriteLine("Третья цифра в числе отсутствует.");
-// }
-
-// if(num.Length > 3) 
-// int n = num[num.Length -2] - '0';
-// Console.WriteLine(n);
